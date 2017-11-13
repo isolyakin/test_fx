@@ -1,0 +1,1 @@
+http://export.finam.ru/data.csv?market=5&em=83&code=EURUSD&apply=0&df=12&mf=8&yf=2017&from=12.09.2017&dt=12&mt=10&yt=2017&to=12.11.2017&p=2&f=EURUSD_170912_171112&e=.csv&cn=EURUSD&dtf=1&tmf=1&MSOR=1&mstime=on&mstimever=1&sep=3&sep2=1&datf=1&at=1
